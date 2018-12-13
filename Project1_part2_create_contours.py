@@ -41,6 +41,10 @@ except:
 
 print("Script Complete")
 
+###Note***
+#be careful of backslash and forwardslash. Having trouble to input foxlake raster at first cauze copied the directory from windows exploer, which use backslash.
+#code works after chang ethem to forward slashes.
+
          
 
 
